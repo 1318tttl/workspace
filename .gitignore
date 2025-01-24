@@ -1,5 +1,6 @@
 .metadata/
 
+# 프로젝트에서 제외할 목록
 **/.settings/
 **/bin/
 **/.classpath
