@@ -1,0 +1,13 @@
+switch(rps) {
+ case 0:
+     System.out.println("가위");
+     break;
+ case 1:
+     System.out.println("바위");
+     break;
+ case 2:
+     System.out.println("보");
+     break;
+ default:
+     System.out.println("알수없음");
+}
